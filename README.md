@@ -9,4 +9,4 @@ If you need any support join
 
 # https://discord.gg/too
 # https://discord.gg/steal
-# and ask for top
+and ask for top
