@@ -1,0 +1,12 @@
+{
+  "token": "OTk5NDE0ODM2MTUwNjY5MzUy.GYZTmk.jK4DvzV0_2v8C0GQYz32WrzPzadsGoU-lqzv1A",
+  "skip_disclaimer": false,
+  "skip_booting": false,
+  "minimum_dm_delay": 0.1,
+  "maximum_dm_delay": 0.3,
+  "minimum_ban_delay": 0.1,
+  "maximum_ban_delay": 0.3,
+  "minimum_general_delay": 0.1,
+  "maximum_general_delay": 0.3,
+  "bot": true
+}
